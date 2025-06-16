@@ -1,4 +1,4 @@
-# Omero Spring Backend
+# Chatbot Spring Backend
 
 ## Author
 Aldo
@@ -52,13 +52,6 @@ backend-spring-chatbot/
 - Helm
 - kubectl
 - SOPS
-
-### Installation
-1. Run `setup_backend_spring_omero.sh` from setup_scripts directory for Spring backend setup
-2. Configure secrets with setup_scripts/*.yaml
-3. Deploy services using Helm
-4. Configure database connections
-5. Set up monitoring and logging
 
 ## Security
 
